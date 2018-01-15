@@ -1,0 +1,14 @@
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\bin\Debug\POSData.dll.config
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\bin\Debug\POSData.dll
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\bin\Debug\POSData.pdb
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\bin\Debug\EntityFramework.dll
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\bin\Debug\EntityFramework.SqlServer.dll
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\bin\Debug\POSEntity.dll
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\bin\Debug\POSEntity.pdb
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\bin\Debug\EntityFramework.xml
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\bin\Debug\EntityFramework.SqlServer.xml
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\obj\Debug\POSData.csprojResolveAssemblyReference.cache
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\obj\Debug\POSData.dll
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\obj\Debug\POSData.pdb
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\obj\Debug\POSData.Migrations.POS.resources
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSData\obj\Debug\POSData.csproj.GenerateResource.Cache

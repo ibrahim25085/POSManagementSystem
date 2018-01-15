@@ -1,0 +1,10 @@
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSEntity\bin\Debug\POSEntity.dll.config
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSEntity\bin\Debug\POSEntity.dll
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSEntity\bin\Debug\POSEntity.pdb
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSEntity\bin\Debug\EntityFramework.dll
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSEntity\bin\Debug\EntityFramework.SqlServer.dll
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSEntity\bin\Debug\EntityFramework.xml
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSEntity\bin\Debug\EntityFramework.SqlServer.xml
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSEntity\obj\Debug\POSEntity.csprojResolveAssemblyReference.cache
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSEntity\obj\Debug\POSEntity.dll
+F:\Files\ASP.NET\BITM\Class Test\PointOfSaleManagementSystem\POSEntity\obj\Debug\POSEntity.pdb
